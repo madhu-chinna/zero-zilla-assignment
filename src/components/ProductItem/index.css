@@ -1,0 +1,20 @@
+.product-item-container {
+  display: flex;
+  flex-direction: column;
+  margin: 15px;
+}
+
+.product-image {
+  height: 250px;
+  width: 300px;
+}
+
+.content-container {
+  display: flex;
+  justify-content: flex-start;
+  /* border: 1px solid red; */
+}
+
+.item-link {
+  text-decoration: none;
+}
